@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm pnbao</h1>
-<h3 align="center">A full-stack developer from **Vietnam**, currently working in **Osaka, Japan**</h3>
+<h3 align="center">A full-stack developer from Vietnam, currently working in Osaka, Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pnbao" alt="pnbao" /> </p>
 
